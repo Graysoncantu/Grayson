@@ -1,23 +1,17 @@
-<!-- MONOCHROMATIC TECH WRITER PROFILE -->
-
-<!-- Header Graphic: Title, Role, & Content Philosophy -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=220&section=header&text=Grayson%20Cantu&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="Grayson Cantu - Technical Writer" />
 </p>
 
-<!-- Sleek Sub-header / Tagline with Graphics -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?quote=Simplicity%20is%20the%20ultimate%20sophistication.&author=Docs-as-Code&theme=dark&text_color=ffffff&bg_color=121212" alt="Content Philosophy Quote" />
 </p>
 
-<!-- Centered Contact Graphic (White Logo) -->
 <p align="center">
   <a href="mailto:graysonfabiancantu@icloud.com"><img src="https://img.shields.io/badge/Connect via Email-F0F0F0?style=for-the-badge&logo=icloud&logoColor=121212" alt="Email Grayson"></a>
 </p>
 
 ---
 
-<!-- About Section -->
 <p align="center">
   <img src="https://img.shields.io/badge/--%20About%20Me%20--%20-121212?style=flat-square&logo=github&logoColor=ffffff&labelColor=333333" alt="About Section Title" />
 </p>
@@ -34,7 +28,6 @@
 
 ---
 
-<!-- Skills Grid Section (Graphically Enhanced) -->
 <p align="center">
   <img src="https://img.shields.io/badge/--%20Documentation%20Toolkit%20--%20-121212?style=flat-square&logo=git&logoColor=ffffff&labelColor=333333" alt="Toolkit Title" />
 </p>
@@ -44,7 +37,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Markup-Markdown-ffffff?style=for-the-badge&logo=markdown&logoColor=121212" alt="Markdown" />
   <img src="https://img.shields.io/badge/Markup-MDX-ffffff?style=for-the-badge&logo=mdx&logoColor=121212" alt="MDX" />
-  <img src="https://img.shields.io/badge/ Markup-Asciidoc-ffffff?style=for-the-badge&logo=asciidoctor&logoColor=121212" alt="Asciidoc" />
+  <img src="https://img.shields.io/badge/Markup-Asciidoc-ffffff?style=for-the-badge&logo=asciidoctor&logoColor=121212" alt="Asciidoc" />
 </p>
 
 <p align="center">
@@ -60,7 +53,6 @@
 
 ---
 
-<!-- Projects Section -->
 <p align="center">
   <img src="https://img.shields.io/badge/--%20Featured%20Documentation%20--%20-121212?style=flat-square&logo=bookstack&logoColor=ffffff&labelColor=333333" alt="Projects Title" />
 </p>
@@ -75,24 +67,18 @@
 
 ---
 
-<!-- Analytics Section (Monochromatic Data Visuals) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/--%20GitHub%20Analytics%20--%20-121212?style=flat-square&logo=github&logoColor=ffffff&labelColor=333333" alt="Analytics Title" />
+  <img src="https://img.shields.io/badge/--%20Profile%20Summary%20--%20-121212?style=flat-square&logo=github&logoColor=ffffff&labelColor=333333" alt="Summary Title" />
 </p>
 
 <br />
 
-<!-- *** CRITICAL: REPLACE 'YOUR_GITHUB_USERNAME' BELOW *** -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=cccccc&text_color=b1b1b1&bg_color=121212" alt="Grayson's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&title_color=ffffff&icon_color=cccccc&text_color=b1b1b1&bg_color=121212" alt="Top Languages" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/View%20My-Complete%20Contribution%20History%20⬇️-ffffff?style=for-the-badge&logo=github&logoColor=121212" alt="Activity Redirect" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&stroke=333333&background=121212&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak" />
-</p>
-
-<!-- Final Footer Graphic -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=121212&height=50&section=footer" alt="Footer Spacer" />
 </p>
