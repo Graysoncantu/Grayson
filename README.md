@@ -1,17 +1,23 @@
+<!-- MONOCHROMATIC TECH WRITER PROFILE -->
+
+<!-- Header Graphic: Title, Role, & Content Philosophy -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=220&section=header&text=Grayson%20Cantu&fontSize=60&animation=fadeIn&fontColor=ffffff" alt="Grayson Cantu - Technical Writer" />
 </p>
 
+<!-- Sleek Sub-header / Tagline with Graphics -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?quote=Simplicity%20is%20the%20ultimate%20sophistication.&author=Docs-as-Code&theme=dark&text_color=ffffff&bg_color=121212" alt="Content Philosophy Quote" />
 </p>
 
+<!-- Centered Contact Graphic (White Logo) -->
 <p align="center">
   <a href="mailto:graysonfabiancantu@icloud.com"><img src="https://img.shields.io/badge/Connect via Email-F0F0F0?style=for-the-badge&logo=icloud&logoColor=121212" alt="Email Grayson"></a>
 </p>
 
 ---
 
+<!-- About Section -->
 <p align="center">
   <img src="https://img.shields.io/badge/--%20About%20Me%20--%20-121212?style=flat-square&logo=github&logoColor=ffffff&labelColor=333333" alt="About Section Title" />
 </p>
@@ -28,6 +34,7 @@
 
 ---
 
+<!-- Skills Grid Section -->
 <p align="center">
   <img src="https://img.shields.io/badge/--%20Documentation%20Toolkit%20--%20-121212?style=flat-square&logo=git&logoColor=ffffff&labelColor=333333" alt="Toolkit Title" />
 </p>
@@ -53,6 +60,29 @@
 
 ---
 
+<!-- Programming Languages Section -->
+<p align="center">
+  <img src="https://img.shields.io/badge/--%20Languages%20%26%20Codebases%20--%20-121212?style=flat-square&logo=codeforces&logoColor=ffffff&labelColor=333333" alt="Languages Title" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
+</p>
+
+---
+
+<!-- Projects Section -->
 <p align="center">
   <img src="https://img.shields.io/badge/--%20Featured%20Documentation%20--%20-121212?style=flat-square&logo=bookstack&logoColor=ffffff&labelColor=333333" alt="Projects Title" />
 </p>
@@ -65,20 +95,7 @@
 | [🛠️ **Docs Pipeline Automation**](#) | Integrated automated linting (Vale) and deployment (GitHub Actions) for documentation workflows. | <img src="https://img.shields.io/badge/Ops-GitHub%20Actions-121212?style=flat-square&logo=githubactions&logoColor=ffffff" alt="Automation Ops"> |
 | [📖 **Engineer Onboarding Wiki**](#) | Restructured and authored the internal developer onboarding wiki, reducing ramp-up time by 20%. | <img src="https://img.shields.io/badge/Format-Markdown%20/%20Wiki-121212?style=flat-square&logo=book&logoColor=ffffff" alt="Wiki Format"> |
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/--%20Profile%20Summary%20--%20-121212?style=flat-square&logo=github&logoColor=ffffff&labelColor=333333" alt="Summary Title" />
-</p>
-
-<br />
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/View%20My-Complete%20Contribution%20History%20⬇️-ffffff?style=for-the-badge&logo=github&logoColor=121212" alt="Activity Redirect" />
-  </a>
-</p>
-
+<!-- Final Footer Graphic -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=121212&height=50&section=footer" alt="Footer Spacer" />
 </p>
