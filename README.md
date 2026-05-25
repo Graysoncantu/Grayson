@@ -5,7 +5,7 @@ I bridge the gap between complex engineering systems and human understanding. I 
 ---
 
 ### 🌐 Where to Find Me
-`[Portfolio](graysoncantu.github.io/Home)` &bull; `[Email](mailto:graysonfabiancantu@icloud.com)`
+`[page]:graysoncantu.github.io/Home` &bull; `[Email]:graysonfabiancantu@icloud.com)`
 
 ---
 
