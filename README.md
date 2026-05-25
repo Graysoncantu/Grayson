@@ -1,1 +1,27 @@
+# Hi, I'm Grayson — Technical Writer
 
+I bridge the gap between complex engineering systems and human understanding. I specialize in creating clear, concise, and developer-centric documentation that scales.
+
+---
+
+### 🌐 Where to Find Me
+`[Portfolio] https://graysoncantu.github.io/Home/` &bull; ` &bull; `[Email](mailto:graysonfabiancantu@icloud.com`
+
+---
+
+### 📂 Focus Areas
+
+* **API Documentation:** Crafting intuitive, accurate reference guides and SDK tutorials.
+* **Developer Experience (DX):** Streamlining onboarding friction through clear Quickstart guides.
+* **Docs-as-Code:** Managing documentation pipelines using Git, Markdown, and CI/CD workflows.
+* **Information Architecture:** Structuring complex knowledge bases for maximum discoverability.
+
+---
+
+### 🛠️ Toolstack & Technologies
+
+```text
+Markup & Formats  ▪  Markdown, MDX, reStructuredText, OpenAPI/Swagger, JSON, YAML
+Static Sites      ▪  Docusaurus, Hugo, Sphinx, Astro, MkDocs
+Version Control   ▪  Git, GitHub, GitLab, Bitbucket
+Languages (Read)  ▪  JavaScript, TypeScript, Python, HTML/CSS
