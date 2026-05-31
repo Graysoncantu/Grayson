@@ -5,7 +5,7 @@ I treat documentation like software. I specialize in building scalable informati
 ---
 
 🌐 Where to Find Me
-* 📄 **Portfolio/Home:** [graysoncantu.github.io/Home](https://graysoncantu.github.io/Home)
+* 📄 **Page:** [graysoncantu.github.io/Home](https://graysoncantu.github.io/Home)
 * ✉️ **Email:** [graysonfabiancantu@icloud.com](mailto:graysonfabiancantu@icloud.com)
 
 ---
