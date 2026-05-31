@@ -4,13 +4,13 @@ I treat documentation like software. I specialize in building scalable informati
 
 ---
 
-### 🌐 Where to Find Me
+🌐 Where to Find Me
 * 📄 **Portfolio/Home:** [graysoncantu.github.io/Home](https://graysoncantu.github.io/Home)
 * ✉️ **Email:** [graysonfabiancantu@icloud.com](mailto:graysonfabiancantu@icloud.com)
 
 ---
 
-### 📁 Focus Areas
+📁 Focus Areas
 
 * **API Documentation & Reference Engineering:** Authoring and maintaining intuitive, spec-driven API references (OpenAPI/Swagger) and technical SDK guides.
 * **Developer Experience (DX):** Building structured Quickstarts, tutorial pathways, and error-handling runbooks to drastically reduce developer onboarding friction.
@@ -19,7 +19,7 @@ I treat documentation like software. I specialize in building scalable informati
 
 ---
 
-### 🛠️ Toolstack & Technologies
+🛠️ Toolstack & Technologies
 
 ```text
 Markup & Formats    ■ Markdown, MDX, reStructuredText, OpenAPI/Swagger, JSON, YAML
