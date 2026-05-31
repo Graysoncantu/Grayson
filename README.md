@@ -1,4 +1,4 @@
-Hi, I'm Grayson — Technical Writer
+Hi, I'm Grayson — Documentation engineer
 
 I bridge the gap between complex engineering systems and human understanding. I specialize in creating clear, concise, and user-centric documentation that scales.
 
